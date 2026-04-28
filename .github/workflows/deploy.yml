@@ -2,7 +2,7 @@ name: Deploy Quartz to GitHub Pages
 on:
   push:
     branches:
-      - updatefrom12003
+      - main
 
 permissions:
   contents: write
