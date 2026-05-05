@@ -1,4 +1,4 @@
-# AI note
+# Something else
 
 這一頁是紀錄常見名詞
 
@@ -34,20 +34,20 @@
 | Letter box |  |  |
 |  |  |  |
 
-[Classification-Nearest Neighbors](AI%20note/Classification-Nearest%20Neighbors%20.md)
+[Classification-Nearest Neighbors](Something%20else/Classification-Nearest%20Neighbors%20.md)
 
-[Classification-hyperplane](AI%20note/Classification-hyperplane%20.md)
+[Classification-hyperplane](Something%20else/Classification-hyperplane%20.md)
 
-[Depthwise Separable Convolution](AI%20note/Depthwise%20Separable%20Convolution%20.md)
+[Depthwise Separable Convolution](Something%20else/Depthwise%20Separable%20Convolution%20.md)
 
-[Linear Classification](AI%20note/Linear%20Classification%20.md)
+[Linear Classification](Something%20else/Linear%20Classification%20.md)
 
-[Classic Model - YOLOv3](AI%20note/Classic%20Model%20-%20YOLOv3%20.md)
+[Classic Model - YOLOv3](Something%20else/Classic%20Model%20-%20YOLOv3%20.md)
 
-[LOSS](AI%20note/LOSS%20.md)
+[LOSS](Something%20else/LOSS%20.md)
 
-[What’s in report](AI%20note/What%E2%80%99s%20in%20report%20.md)
+[What’s in report](Something%20else/What%E2%80%99s%20in%20report%20.md)
 
-[Classic Model - BlazeFace](AI%20note/Classic%20Model%20-%20BlazeFace%20.md)
+[Classic Model - BlazeFace](Something%20else/Classic%20Model%20-%20BlazeFace%20.md)
 
-[TroubleShooting](AI%20note/TroubleShooting%20.md)
+[TroubleShooting](Something%20else/TroubleShooting%20.md)

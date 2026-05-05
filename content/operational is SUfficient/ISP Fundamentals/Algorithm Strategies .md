@@ -1,4 +1,4 @@
-# ISP Algorthn
+# Algorithm Strategies
 
 ```mermaid
 graph TD
@@ -46,6 +46,6 @@ graph TD
 	
 ```
 
-[Defog - Dark Channel Prior](ISP%20Algorthn/Defog%20-%20Dark%20Channel%20Prior%20.md)
+[Defog - Dark Channel Prior](Algorithm%20Strategies/Defog%20-%20Dark%20Channel%20Prior%20.md)
 
-[Dithering](ISP%20Algorthn/Dithering%20.md)
+[Dithering](Algorithm%20Strategies/Dithering%20.md)

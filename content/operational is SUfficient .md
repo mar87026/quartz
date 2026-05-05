@@ -3,9 +3,9 @@
 This space is mainly for documenting the bits of knowledge and field experience that are easy to lose over time.
 Keep adding notes whenever new issues show up , which, in troubleshooting work, is basically all the time.
 
-[Image Signal Processing](operational%20is%20SUfficient/Image%20Signal%20Processing%20.md)
+[ISP Fundamentals](operational%20is%20SUfficient/ISP%20Fundamentals%20.md)
 
-[AI note](operational%20is%20SUfficient/AI%20note%20.md)
+[Something else](operational%20is%20SUfficient/Something%20else%20.md)
 
 Contact: [LinkedIn](https://www.linkedin.com/in/susu-li-a6156114b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
