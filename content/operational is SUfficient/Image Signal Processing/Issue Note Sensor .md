@@ -1,4 +1,4 @@
-# Problem Note : Sensor
+# Issue Note : Sensor
 
 | Sensor problem |  |  |
 | --- | --- | --- |

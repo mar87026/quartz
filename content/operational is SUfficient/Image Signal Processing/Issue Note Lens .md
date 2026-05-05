@@ -1,6 +1,6 @@
-# Problem Note : Lens
+# Issue Note : Lens
 
-![image.png](Problem%20Note%20Lens/image.png)
+![image.png](Issue%20Note%20Lens/image.png)
 
 | Chromatic Aberration |  |  |
 | --- | --- | --- |
