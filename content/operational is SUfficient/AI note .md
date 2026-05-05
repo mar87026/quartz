@@ -15,7 +15,7 @@
 | 實驗目的 | 過程 |  |
 | --- | --- | --- |
 | 想知道拍攝視角對辨識能力的影響 | 以Yolo v3交叉訓練與辨識coco128與VisDrone | 蠻糟的，coco128底對VisDrone辨識會把船辨識成車；VisDrone底對coco128 precision很低 |
-| MULTI-VIEWNORMALIZATIONFORFACERECOGNITION | 找資料時發現**Dual-View Normalization for Face Recognition** | 先看dual |
+| MULTI-VIEWNORMALIZATIONFORFACERECOGNITION | 找資料時發現**Dual-View Normalization for Face Recognition** | 先看dual，然後確定就是dual硬擴大成7*2個角度 |
 | **Dual-View Normalization for Face Recognition** | 實驗結果頗不合理，單純作為知識補充就好 |  |
 
 |  |  |  |
