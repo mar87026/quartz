@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Susu",
-    pageTitleSuffix: "",
+    pageTitle: "Signal, Noise, and Other Problems",
+    pageTitleSuffix: "Signal, Noise, and Other Problems",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "mar87026.github.io/Signal-Noise-andOtherProblems/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
