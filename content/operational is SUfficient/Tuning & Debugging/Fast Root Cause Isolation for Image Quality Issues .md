@@ -1,4 +1,4 @@
-# First Frame Issue
+# Fast Root Cause Isolation for Image Quality Issues
 
 用在行車紀錄器、門鈴等，需要隨時啟動但又因為隱私和省電需求不得不以超低功率運作的情況，以下是步驟
 

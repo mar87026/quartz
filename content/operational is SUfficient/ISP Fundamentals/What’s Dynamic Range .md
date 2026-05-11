@@ -1,4 +1,4 @@
-# Issue Note: Contrast and Edge
+# What’s Dynamic Range
 
 | **Spatial Frequency Response**  |
 | --- |

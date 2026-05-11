@@ -1,12 +1,5 @@
 # Color
 
-![image.png](Color/image.png)
-
-| Name | description |
-| --- | --- |
-| C00 | the chroma (saturation) distance in CIE2000 standard. |
-| E00 | the Error Rate include Luminance, Chromiance and Chroma. |
-
 | CFA會造成的問題 |  |
 | --- | --- |
 | Moire | 若畫面中有密度很高的紋路，會和sensor面板產生干涉，則無論怎麼判斷edge都無法糾錯 |

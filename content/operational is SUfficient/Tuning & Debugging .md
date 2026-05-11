@@ -1,6 +1,6 @@
 # Tuning & Debugging
 
-Rememeber: Algorithm and Tuning are different.
+*Rememeber: Algorithm and Tuning are different.*
 
 [Color](Tuning%20&%20Debugging/Color%20.md)
 
@@ -10,8 +10,6 @@ Rememeber: Algorithm and Tuning are different.
 
 [3A](Tuning%20&%20Debugging/3A%20.md)
 
-[Trouble Shooting](Tuning%20&%20Debugging/Trouble%20Shooting%20.md)
-
 [Color Transform](Tuning%20&%20Debugging/Color%20Transform%20.md)
 
-[First Frame Issue](Tuning%20&%20Debugging/First%20Frame%20Issue%20.md)
+[Fast Root Cause Isolation for Image Quality Issues](Tuning%20&%20Debugging/Fast%20Root%20Cause%20Isolation%20for%20Image%20Quality%20Issues%20.md)

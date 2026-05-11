@@ -27,12 +27,13 @@
 |  |  |
 | --- | --- |
 | Learning Rate |  |
-|  |  |
+| Floating Point Operations |  |
+| Parameters |  |
 
-|  |  |  |
-| --- | --- | --- |
-| Letter box |  |  |
-|  |  |  |
+|  |  |
+| --- | --- |
+| Letter box |  |
+| Single Shot Multibox Detector(SSD) | Doing feature detection one by one, the later ones don’t need to run interface within original image again |
 
 [Classification-Nearest Neighbors](Something%20else/Classification-Nearest%20Neighbors%20.md)
 

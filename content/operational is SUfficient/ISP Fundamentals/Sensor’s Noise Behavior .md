@@ -1,4 +1,4 @@
-# Issue Note : Sensor
+# Sensor’s Noise Behavior
 
 | Sensor problem |  |  |
 | --- | --- | --- |
